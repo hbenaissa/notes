@@ -105,3 +105,17 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+##FR
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/EasyList.txt
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/EasyList-Liste-FR.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/France.txt
+
+##Cookies Notices
+https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt
+https://github.com/r4vi/block-the-eu-cookie-shit-list/blob/master/filterlist.txt
+
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
