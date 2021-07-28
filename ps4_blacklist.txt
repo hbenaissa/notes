@@ -32,3 +32,5 @@ pmcamera-apps.dl.playstation.net.edgekey.net
 ps4updptl.uk.np.community.playstation.net
 ps4updptl.us.np.community.playstation.net.akadns.net
 ps4updptl.us1.np.community.playstation.net.edgekey.net
+event.api.np.km.playstation.net
+ps4updptl.us2.np.community.playstation.net.edgekey.net
