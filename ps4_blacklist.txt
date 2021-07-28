@@ -26,5 +26,9 @@ ps4updptl.eu.np.community.playstation.net
 ps4.updptl.sp-int.community.playstation.net
 ps4updptl.jp.sp-int.community.playstation.net
 ps4-eb.ww.np.dl.playstation.net
+ps4updptl.np.community.playstation.net.akadns.net
 ps4-eb.ww.np.dl.playstation.net
 pmcamera-apps.dl.playstation.net.edgekey.net
+ps4updptl.uk.np.community.playstation.net
+ps4updptl.us.np.community.playstation.net.akadns.net
+ps4updptl.us1.np.community.playstation.net.edgekey.net
